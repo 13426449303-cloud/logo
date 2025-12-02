@@ -1,0 +1,5 @@
+{
+  "name": "Parametric Logo AI",
+  "description": "An automated parametric logo design tool powered by Gemini. Generate, evolve, and animate unique vector logos and patterns using AI-driven parameters.",
+  "requestFramePermissions": []
+}
